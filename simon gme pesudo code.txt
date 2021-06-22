@@ -1,0 +1,7 @@
+STEP 1
+
+listen for key press to lowercase "a".
+Key has been pressed to start the level. change text/innerhtml of level-title to "level" + level Count.
+
+STEP 2 the button suquence
+
